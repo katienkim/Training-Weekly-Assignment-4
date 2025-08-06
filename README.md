@@ -1,2 +1,2 @@
-# List-S3-Buckets
-[Training] Katie - Weekly Assignment 4
+# Training Weekly Assignment 4
+List-S3-Buckets
